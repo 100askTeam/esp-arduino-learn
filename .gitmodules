@@ -1,0 +1,8 @@
+[submodule "install_libraries/lvgl"]
+	path = install_libraries/lvgl
+	url = https://github.com/lvgl/lvgl.git
+	branch = release/v8.2
+[submodule "install_libraries/EspTinyUSB"]
+	path = install_libraries/EspTinyUSB
+	url = https://github.com/chegewara/EspTinyUSB.git
+	branch = master
